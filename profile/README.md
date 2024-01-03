@@ -29,4 +29,8 @@ We have created a mobile application for the employees and a web application for
   - Flutter Frontend
   - Express.js Backend
 
-![Team](https://smartshed.gopalsaraf.com/Team.jpg)
+<br><br>
+
+<p align="center">
+  <img src="https://smartshed.gopalsaraf.com/Team.jpg" width="400" height="auto">
+</p>
