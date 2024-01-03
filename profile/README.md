@@ -29,4 +29,4 @@ We have created a mobile application for the employees and a web application for
   - Flutter Frontend
   - Express.js Backend
 
-![Team](../Team.jpg)
+![Team](Team.jpg)
