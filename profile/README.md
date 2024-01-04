@@ -28,9 +28,3 @@ We have created a mobile application for the employees and a web application for
   - Team Leader
   - Flutter Frontend
   - Express.js Backend
-
-<br><br>
-
-<p align="center">
-  <img src="https://smartshed.gopalsaraf.com/Team.jpg" width="400" height="auto">
-</p>
