@@ -28,3 +28,9 @@ We have created a mobile application for the employees and a web application for
   - Team Leader
   - Flutter Frontend
   - Express.js Backend
+
+- [Parth Sali](https://github.com/parthsali)
+  - Led backend development
+  - Crafted optimized MongoDB schema
+  - Implemented robust APIs with advanced features for locomotive maintenance records
+
